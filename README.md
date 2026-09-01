@@ -1,4 +1,14 @@
+![Capa do Analisador de Logs de Segurança](docs/capa.svg)
+
+<div align="center">
+
 # Analisador de Logs de Segurança
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![Testes](https://img.shields.io/badge/Testes-unittest-22C55E?style=flat-square)
+![Segurança](https://img.shields.io/badge/Foco-Análise_de_logs-0F766E?style=flat-square)
+
+</div>
 
 Projeto em Python que lê registros de autenticação e identifica padrões compatíveis com tentativas de força bruta.
 
@@ -36,3 +46,7 @@ Eventos reconhecidos: `LOGIN_SUCESSO` e `LOGIN_FALHA`.
 ## Tecnologias e conceitos
 
 Python · pathlib · datetime · arquivos · listas · dicionários · tratamento de exceções · testes automatizados · análise de eventos de segurança
+
+---
+
+Desenvolvido por [Nicolas Marques](https://github.com/NicolasMarquesSousa) · [Ver portfólio](https://github.com/NicolasMarquesSousa)
